@@ -1,6 +1,15 @@
 [
     {
         "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest25072024134949",
+        "timestamp": "25072024134949",
+        "component_file_name": "purple_feature_grid_component_1721911785",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
         "content": "add a navbar with the navlinks home, about and contact",
         "message_id": "guest25072024130513",
         "timestamp": "25072024130513",
