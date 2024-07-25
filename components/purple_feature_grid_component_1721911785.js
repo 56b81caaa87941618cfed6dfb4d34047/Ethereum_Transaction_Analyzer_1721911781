@@ -55,7 +55,13 @@ Vue.component("purple_feature_grid_component_1721911785", {
             </div>
             <div class="flex" id="feature-6-description-container"><p id="feature-6-description" class="flex-1 text-sm" :class="textPrimaryStyle">Built on a decentralized and secure architecture, our app ensures the integrity and privacy of your transaction analysis activities. Trust in the power of blockchain technology.</p></div>
         </div>
-    </div>`,
+    </div>
+    <div class="mt-8 flex justify-center">
+        <button class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded">
+            Hello World
+        </button>
+    </div>
+`,
         data() {
             return {
                 expanded: false, 
