@@ -57,7 +57,7 @@ Vue.component("purple_feature_grid_component_1721911785", {
         </div>
     </div>
     <div class="mt-8 flex justify-center">
-        <button class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded">
+        <button class="bg-gradient-to-r from-blue-700 to-purple-600 hover:from-blue-800 hover:to-purple-700 text-white font-bold py-3 px-6 rounded-lg shadow-lg transform transition duration-200 hover:scale-105">
             Hello World
         </button>
     </div>
