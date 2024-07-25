@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"Would you like the button to have any specific color theme?\", \"option1\": \"Yes, match it with the app's primary color scheme\", \"option2\": \"No, a standard button color is fine\"}], \"input_token_count\": 363, \"output_token_count\": 104, \"time_taken\": \"0:00:06.707600\"}",
+        "message_id": "guest25072024130027",
+        "timestamp": "25072024130036",
+        "component_file_name": "purple_header_component_1721911785",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, adding a button with text \"Hello World\".",
         "message_id": "guest25072024130027",
