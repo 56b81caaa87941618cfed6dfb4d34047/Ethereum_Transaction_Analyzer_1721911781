@@ -42,5 +42,11 @@
         "content": "\"All set, adding a button with the text 'Hello World'.\"",
         "timestamp": "25072024125858",
         "message_id": "guest25072024125857"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "timestamp": "25072024125946",
+        "message_id": "guest25072024125946"
     }
 ]
