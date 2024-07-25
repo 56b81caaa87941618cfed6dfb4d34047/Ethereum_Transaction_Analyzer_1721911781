@@ -30,5 +30,9 @@
     {
         "level": 1,
         "task_description": "add a navbar with the navlinks home, about and contact"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user initially requested to add a button with the text \"Hello World\" to their project. The AI confirmed the completion of this task with readiness to implement this specific feature. Following the initial request, the user repeated the command to add a \"Hello World\" button, prompting the AI to offer a list of additional features related to integrating a real-time Ethereum transaction feed, displaying transaction details, filtering transactions, graphical representations of transaction volumes, push notifications for high-value transactions, and a customizable list for favored transactions. Additionally, the AI posed questions regarding the desired placement and function of the \"Hello World\" button, offering options for its location within the app and its subsequent action upon being pressed. The conversation continued with the AI acknowledging the request again and promising to add the button displaying \"Hello World.\" Moreover, the user repeated their request to add the \"Hello World\" button, after which the AI sought further details about the project to better understand the specifics of the request and tailor its assistance accordingly.\nUser: add a navbar with the navlinks home, about and contact\nAI: Great! Adding sidebar with home, about and contact navlinks.\nUser: add a sidebar with the navlinks home, about and contact\nAI: Got it, adding a button with text \"Hello World\".\nUser: add a button that says hello world\nAI: Great idea! Adding a button that says \"Hello World\" now.\nThis is the user's current request of changes to be made: add a button that says hello world"
     }
 ]
