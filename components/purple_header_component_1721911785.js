@@ -33,6 +33,8 @@ Vue.component("purple_header_component_1721911785", {
 
                 <button class="btn-sm text-slate-300 hover:text-white bg-slate-800 rounded-lg shadow-md transition duration-150 ease-in-out px-4 py-2 mr-4">Hello World</button>
 
+                <button class="btn-sm text-slate-300 hover:text-white bg-slate-800 rounded-lg shadow-md transition duration-150 ease-in-out px-4 py-2 mr-4">Hello World</button>
+
                 <div id="mobile-menu" class="md:hidden flex items-center ml-4" x-data="{ expanded: false }">
     
                 <div id="mobile-menu" class="md:hidden flex items-center ml-4" x-data="{ expanded: false }">
