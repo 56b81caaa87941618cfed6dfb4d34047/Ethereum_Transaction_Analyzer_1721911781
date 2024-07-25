@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Should the sidebar be always visible or should it be toggleable on user interaction?\", \"option1\": \"Always visible\", \"option2\": \"Toggleable\"}, {\"question 2\": \"Do you have a specific design style or theme in mind for the sidebar (e.g., minimalistic, material design)?\", \"option1\": \"Yes, I have a specific design style in mind and will provide more details.\", \"option2\": \"No specific style, I'm open to suggestions based on current design trends.\"}], \"input_token_count\": 266, \"output_token_count\": 118, \"time_taken\": \"0:00:06.063184\"}",
+        "message_id": "guest25072024130205",
+        "timestamp": "25072024130213",
+        "component_file_name": "purple_background_cta_component_1721911785",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great! Adding sidebar with home, about and contact navlinks.",
         "message_id": "guest25072024130205",
