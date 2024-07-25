@@ -5,7 +5,16 @@ It is centered on the page and includes a gradient-based title, a subtitle, a pa
 Vue.component("purple_background_cta_component_1721911785", {
     template: `
     <section id="cta-section-container">
-        <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+        <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6 bg-white flex">
+            <div id="sidebar" class="w-64 bg-purple-100 p-6 rounded-lg shadow-md mr-8">
+                <nav>
+                    <ul class="space-y-4">
+                        <li><a href="#" class="text-purple-700 hover:text-purple-900 font-medium">Home</a></li>
+                        <li><a href="#" class="text-purple-700 hover:text-purple-900 font-medium">About</a></li>
+                        <li><a href="#" class="text-purple-700 hover:text-purple-900 font-medium">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
             <div id="content-container" class="relative px-8 py-12 md:py-20 rounded-[3rem] overflow-hidden">
                 <!-- Radial gradient -->
                 <div id="radial-gradient" class="absolute flex items-center justify-center top-0 -translate-y-1/2 left-1/2 -translate-x-1/2 pointer-events-none -z-10 w-1/3 aspect-square" aria-hidden="true">
